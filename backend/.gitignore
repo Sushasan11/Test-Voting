@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.env
+*.db
+logs/
+
+# Node
+node_modules/
+build/
+dist/
+
+# Snowflake
+*.p8
+*.pem
+
+# Streamlit
+.streamlit/
+
+# Databricks
+*.dbc
+
+# VSCode or PyCharm
+.vscode/
+../.idea/
