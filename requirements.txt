@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+snowflake-connector-python
+snowflake-sqlalchemy
+# For local PostgreSQL testing (optional)
+psycopg2-binary
+# CORS handling (for frontend-backend communication)
+starlette
+# Optional: testing
+httpx
+pytest
